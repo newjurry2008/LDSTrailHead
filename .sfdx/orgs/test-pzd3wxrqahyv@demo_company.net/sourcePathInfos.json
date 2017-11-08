@@ -77,16 +77,15 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp",
         {
+            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp",
             "isDirectory": false,
-            "size": 1105,
-            "modifiedTime": 1510103870884,
-            "changeTime": 1510103870885,
-            "contentHash": "67340fbe9fb4db4984e90a4c0ffb4e7fbb134888",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1165,
+            "modifiedTime": 1510105795423,
+            "changeTime": 1510105795423,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "861e574cb907d40c46702ec53792b9ff9f94ae45"
         }
     ],
     [
@@ -170,13 +169,12 @@
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1510102078920,
-            "changeTime": 1510102078920,
-            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "modifiedTime": 1510104069793,
+            "changeTime": 1510104069793,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ]
 ]

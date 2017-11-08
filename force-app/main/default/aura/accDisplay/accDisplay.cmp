@@ -12,12 +12,12 @@
     <!-- Display a lightning card with details about the record-->
     
     <div class="Record Details"> 
-            <lightning:card iconName="standard:account" title="{!v.record.Name}" >
+            <lightning:card iconName="standard:account" title="{!v.simpleRecord.Name}" >
                 <div class="slds-p-horizontal--small">
                     <p class="slds-text-heading--small">
                         <lightning:formattedText title="Industry" value="{!v.simpleRecord.Industry}" /></p>
                     <p class="slds-text-heading--small">
-                         <lightning:formattedPhone title="Phone" value="{!v.simpleRecord.BillingCity}" /></p>
+                         <lightning:formattedPhone title="Phone" value="{!v.simpleRecord.Phone}" /></p>
                 </div>
             </lightning:card>
         </div>
