@@ -13,10 +13,10 @@
         <!-- Display a lightning card with details about the contact -->
         <div class="Contact Details"> 
             <lightning:card iconName="standard:contact" title="{!v.contactRecord.Name}" >
-                <div class="slds-p-horizontal--small">
-                    <p class="slds-text-heading--small">
+                <div class="slds-p-horizontal_small">
+                    <p class="slds-text-heading_small">
                         <lightning:formattedPhone aura:id="PhoneId" title="Phone"  value="{!v.contactRecord.Phone}" /></p>
-                    <p class="slds-text-heading--small">
+                    <p class="slds-text-heading_small">
                         <lightning:formattedText aura:id="DescId" title="Description" value="{!v.contactRecord.Description}" /></p>
                     
                 </div>
