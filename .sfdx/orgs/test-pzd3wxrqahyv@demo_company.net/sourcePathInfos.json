@@ -1,0 +1,182 @@
+[
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510100311359,
+            "changeTime": 1510100311359,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510100311394,
+            "changeTime": 1510100311394,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510100311395,
+            "changeTime": 1510100311395,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510102956085,
+            "changeTime": 1510102956085,
+            "contentHash": "bfadce63214bd38cc36429e9c52c76b29bed7c45",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510102956142,
+            "changeTime": 1510102956142,
+            "contentHash": "426e4ddc5b7da88fcf8afdb172d4edd7e733aea9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp",
+            "isDirectory": false,
+            "size": 1105,
+            "modifiedTime": 1510103870884,
+            "changeTime": 1510103870885,
+            "contentHash": "67340fbe9fb4db4984e90a4c0ffb4e7fbb134888",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp-meta.xml",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1510102956087,
+            "changeTime": 1510102956087,
+            "contentHash": "43331c9f268d9a5a1197a77ef3f3e4237657e698",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.css",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1510102956141,
+            "changeTime": 1510102956141,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayController.js",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1510102956139,
+            "changeTime": 1510102956139,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayHelper.js",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1510102956140,
+            "changeTime": 1510102956140,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayRenderer.js",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1510102956142,
+            "changeTime": 1510102956142,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510102078920,
+            "changeTime": 1510102078920,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
