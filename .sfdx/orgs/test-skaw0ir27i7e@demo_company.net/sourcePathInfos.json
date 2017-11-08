@@ -50,13 +50,11 @@
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1510151735254,
-            "changeTime": 1510151735254,
-            "contentHash": "a8b1f1b7e822ae85e65e1098208c7a8e79d07f61",
+            "modifiedTime": 1510167874044,
+            "changeTime": 1510167874044,
+            "contentHash": "518c286c6d82c9ca0b826b46364185adb6797236",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -77,15 +75,15 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1381,
             "modifiedTime": 1510162736981,
             "changeTime": 1510162736981,
-            "isWorkspace": false,
-            "contentHash": "2831f48a306325c32350e932d121e0298c695213"
+            "contentHash": "2831f48a306325c32350e932d121e0298c695213",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -185,11 +183,11 @@
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 893,
-            "modifiedTime": 1510162766944,
-            "changeTime": 1510162766944,
+            "size": 1174,
+            "modifiedTime": 1510173950523,
+            "changeTime": 1510173950523,
             "isWorkspace": false,
-            "contentHash": "5ff46cd1aa699b3c878fb9a945bc304f10d30b92"
+            "contentHash": "4c8a77e5d559b2dd1785196681a90dd97845c2d1"
         }
     ],
     [
@@ -227,14 +225,13 @@
         {
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEditController.js",
             "isDirectory": false,
-            "size": 796,
-            "modifiedTime": 1510153825995,
-            "changeTime": 1510153825995,
-            "contentHash": "c82357339a49b8390fae515f184c5a449dabf7eb",
+            "size": 1099,
+            "modifiedTime": 1510172514477,
+            "changeTime": 1510172514477,
+            "contentHash": "a3e3169ed533ae44fcd5a1ef2b8b1fddabe62626",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -268,63 +265,16 @@
         }
     ],
     [
-        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test",
-        {
-            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1510106230349,
-            "changeTime": 1510106230349,
-            "contentHash": "7c0b562379c9017ee7e0eb9b9a530d118a09d12f",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp",
-        {
-            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp",
-            "isDirectory": false,
-            "size": 1427,
-            "modifiedTime": 1510106230349,
-            "changeTime": 1510106230349,
-            "contentHash": "17dfcaacab26352019fdb5130d3704570506f3b5",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp-meta.xml",
-        {
-            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 228,
-            "modifiedTime": 1510106230315,
-            "changeTime": 1510106230315,
-            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages",
         {
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1510106230351,
-            "changeTime": 1510106230351,
-            "contentHash": "35ff78c7b0c6fcdb9646e1977b5ea23c83150710",
+            "modifiedTime": 1510168103208,
+            "changeTime": 1510168103208,
+            "contentHash": "abff0b31112be6f26f63bfaa3108233cb75ef2b5",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -354,6 +304,97 @@
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsEditContact\\ldsEditContact.cmp-meta.xml",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsEditContact\\ldsEditContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510168103198,
+            "changeTime": 1510168103198,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsEditContact\\ldsEditContact.cmp",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsEditContact\\ldsEditContact.cmp",
+            "isDirectory": false,
+            "size": 1575,
+            "modifiedTime": 1510170486328,
+            "changeTime": 1510170486328,
+            "contentHash": "2b80ff7e0babff10ca438c318df4c0b5cae9e985",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsShowContact\\ldsShowContact.cmp-meta.xml",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsShowContact\\ldsShowContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510168103203,
+            "changeTime": 1510168103203,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsShowContact\\ldsShowContact.cmp",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsShowContact\\ldsShowContact.cmp",
+            "isDirectory": false,
+            "size": 1199,
+            "modifiedTime": 1510170648692,
+            "changeTime": 1510170502753,
+            "contentHash": "52e5ad7a0c738b66a00edde4c6222b8ded6e51a1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6962,
+            "modifiedTime": 1510168103209,
+            "changeTime": 1510168103209,
+            "contentHash": "0b9c301e80d2b17086f9a035780486377f5cf0a0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsEditContact",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsEditContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510168103200,
+            "changeTime": 1510168103200,
+            "contentHash": "175126b02dadc5f60ca7f90c8ba552ec2010ea35",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsShowContact",
+        {
+            "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\ldsShowContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510168103204,
+            "changeTime": 1510168103204,
+            "contentHash": "c974aa5bd333be5a6bedc2fda51b79d39b8a34a3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

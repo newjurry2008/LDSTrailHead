@@ -4,10 +4,12 @@
     <name>AuraDefinitionBundle</name>
     <members>accDisplay</members>
     <members>accEdit</members>
-    <members>test</members>
+    <members>ldsEditContact</members>
+    <members>ldsShowContact</members>
   </types>
   <types>
     <name>FlexiPage</name>
+    <members>Account_Record_Page</members>
     <members>accountDisplay</members>
   </types>
   <version>41.0</version>
