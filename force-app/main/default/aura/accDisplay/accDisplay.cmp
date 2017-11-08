@@ -13,12 +13,12 @@
     
     <div class="Record Details"> 
             <lightning:card iconName="standard:account" title="{!v.accountRecord.Name}" >
-                <div class="slds-p-horizontal--small">
-                    <p class="slds-text-heading--small">
+                <div class="slds-p-horizontal__small">
+                    <p class="slds-text-heading__small">
                         <lightning:formattedText title="Industry" value="{!v.accountRecord.Industry}" /></p>
-                    <p class="slds-text-heading--small">
+                    <p class="slds-text-heading__small">
                          <lightning:formattedPhone title="Phone" value="{!v.accountRecord.Phone}" /></p>
-                         <p class="slds-text-heading--small">
+                         <p class="slds-text-heading__small">
                                 <lightning:formattedText title="Description" value="{!v.accountRecord.Description}" /></p>
                        </div>
                

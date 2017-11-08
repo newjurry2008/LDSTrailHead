@@ -12,7 +12,7 @@
 <!-- Display an editing form -->
     <div class="Record Details">
         <lightning:card iconName="action:edit" title="Edit Account">
-            <div class="slds-p-horizontal--small">
+            <div class="slds-p-horizontal__small">
                 <lightning:input  label="Account Name" value="{!v.accountRecord.Name}"/>
                 <br/>
                 <lightning:button label="Save Account" variant="brand" onclick="{!c.handleSaveRecord}" />

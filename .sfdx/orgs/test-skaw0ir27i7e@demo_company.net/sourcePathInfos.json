@@ -82,10 +82,10 @@
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 1381,
-            "modifiedTime": 1510158595322,
-            "changeTime": 1510158595322,
+            "modifiedTime": 1510162736981,
+            "changeTime": 1510162736981,
             "isWorkspace": false,
-            "contentHash": "612ae907da582ee4019008d5ab83cf45733348a4"
+            "contentHash": "2831f48a306325c32350e932d121e0298c695213"
         }
     ],
     [
@@ -181,16 +181,15 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.cmp",
         {
+            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.cmp",
             "isDirectory": false,
-            "size": 893,
-            "modifiedTime": 1510155971413,
-            "changeTime": 1510155971413,
-            "contentHash": "713932b7fc008e56b57a149151f593d5e3ed2152",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 893,
+            "modifiedTime": 1510162766944,
+            "changeTime": 1510162766944,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "5ff46cd1aa699b3c878fb9a945bc304f10d30b92"
         }
     ],
     [
@@ -346,15 +345,15 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510157536789,
             "changeTime": 1510157536789,
-            "isWorkspace": true,
-            "contentHash": "ef82d7429723bf26a6516b012d2763999ca53c2b"
+            "contentHash": "ef82d7429723bf26a6516b012d2763999ca53c2b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ]
 ]

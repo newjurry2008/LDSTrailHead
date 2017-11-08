@@ -2,14 +2,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510100311359,
             "changeTime": 1510100311359,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510100311394,
             "changeTime": 1510100311394,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510106230351,
             "changeTime": 1510106230351,
             "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510151735254,
             "changeTime": 1510151735254,
             "contentHash": "a8b1f1b7e822ae85e65e1098208c7a8e79d07f61",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510102956142,
             "changeTime": 1510102956142,
             "contentHash": "426e4ddc5b7da88fcf8afdb172d4edd7e733aea9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -81,25 +81,24 @@
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1165,
-            "modifiedTime": 1510105795423,
-            "changeTime": 1510105795423,
-            "contentHash": "861e574cb907d40c46702ec53792b9ff9f94ae45",
+            "size": 1381,
+            "modifiedTime": 1510158595322,
+            "changeTime": 1510158595322,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "612ae907da582ee4019008d5ab83cf45733348a4"
         }
     ],
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1510102956087,
             "changeTime": 1510102956087,
             "contentHash": "43331c9f268d9a5a1197a77ef3f3e4237657e698",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +106,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.css",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplay.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1510102956141,
             "changeTime": 1510102956141,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +121,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayController.js",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1510102956139,
             "changeTime": 1510102956139,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +136,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayHelper.js",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1510102956140,
             "changeTime": 1510102956140,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +151,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayRenderer.js",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accDisplay\\accDisplayRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1510102956142,
             "changeTime": 1510102956142,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +166,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510151735294,
             "changeTime": 1510151735294,
             "contentHash": "fe8316dc6ee48e8bd88fa1096cb6e023ef4b9458",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +181,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 893,
             "modifiedTime": 1510155971413,
             "changeTime": 1510155971413,
             "contentHash": "713932b7fc008e56b57a149151f593d5e3ed2152",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +196,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 239,
             "modifiedTime": 1510151735256,
             "changeTime": 1510151735256,
             "contentHash": "9d2c212166e37eab3c6ec50c8f430d0eceb6785a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +211,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.css",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEdit.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1510151735293,
             "changeTime": 1510151735293,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +226,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEditController.js",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEditController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 796,
             "modifiedTime": 1510153825995,
             "changeTime": 1510153825995,
             "contentHash": "c82357339a49b8390fae515f184c5a449dabf7eb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +241,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEditHelper.js",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEditHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1510151735292,
             "changeTime": 1510151735292,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +256,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEditRenderer.js",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\accEdit\\accEditRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1510151735294,
             "changeTime": 1510151735294,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +271,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510106230349,
             "changeTime": 1510106230349,
             "contentHash": "7c0b562379c9017ee7e0eb9b9a530d118a09d12f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +286,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1427,
             "modifiedTime": 1510106230349,
             "changeTime": 1510106230349,
             "contentHash": "17dfcaacab26352019fdb5130d3704570506f3b5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +301,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\aura\\test\\test.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1510106230315,
             "changeTime": 1510106230315,
             "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +316,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510106230351,
             "changeTime": 1510106230351,
             "contentHash": "35ff78c7b0c6fcdb9646e1977b5ea23c83150710",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +331,14 @@
     [
         "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages\\accountDisplay.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\EigenX\\SFDXLightningComSuperBadge\\LightningCompSuperBadge\\force-app\\main\\default\\flexipages\\accountDisplay.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 855,
             "modifiedTime": 1510156710134,
             "changeTime": 1510156710134,
             "contentHash": "984c0451617202600ed43c02762b9cfe8407a347",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -352,11 +351,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1510156623350,
-            "changeTime": 1510156623350,
-            "contentHash": "efdf40b06b564f53da01678a03e1a9de84e27b9b",
+            "modifiedTime": 1510157536789,
+            "changeTime": 1510157536789,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "ef82d7429723bf26a6516b012d2763999ca53c2b"
         }
     ]
 ]
