@@ -23,7 +23,7 @@
     </div>
     <!-- Display error message -->
 
-    <aura:if isTrue="{!v.recordSaveError}">
+    <aura:if isTrue="{!not(empty(v.recordSaveError))}">
 
         <div class="recordError">
 
